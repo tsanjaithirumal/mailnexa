@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "MailNexa Inbox",
+  "version": "0.1.0",
+  "description": "A simple inbox popup for MailNexa (demo).",
+  "host_permissions": ["http://127.0.0.1:8000/*"],
+  "action": {
+    "default_title": "MailNexa Inbox",
+    "default_popup": "popup.html"
+  }
+}
+

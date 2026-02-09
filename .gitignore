@@ -1,0 +1,13 @@
+# Gmail API secrets
+backend/credentials.json
+backend/token.json
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
